@@ -1,4 +1,14 @@
 .character {
-  /* Fill the available container height */
-  height: 100%;
+    /* Fill the available container height */
+    height: 100%;
+
+    top: 300px;
+    right: 300px;
+    min-height: 500px;
+    max-height: 900px;
+    position: fixed;
+}
+
+.characterWrapper {
+    position: relative;
 }

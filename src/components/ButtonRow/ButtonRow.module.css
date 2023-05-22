@@ -1,2 +1,5 @@
 .buttonRow {
+    overflow: auto;
+    /* The secret ingredient: */
+    white-space: nowrap;
 }
